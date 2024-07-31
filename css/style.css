@@ -1,0 +1,33 @@
+body {
+    overflow-x: hidden;
+    background-color: blanchedalmond;
+}
+
+.img {
+    justify-content: space-around;
+    scale: 60%;
+    width: 70%;
+}
+.cont {
+    display: flex;
+}
+.list-container {
+    background-color: rgb(255, 222, 182);
+    border: solid 10px rgb(255, 216, 166);
+    border-radius: 10px;
+    font-family: "Montserrat"
+}
+.contOUT {
+    background-color: azure;
+    width: 95%;
+    height: max-content;
+    border-radius: 90px;
+    position: relative;
+    right: 3%;
+}
+
+.vid {
+    position: relative;
+    left: 15px;
+    top: 19px;
+}
